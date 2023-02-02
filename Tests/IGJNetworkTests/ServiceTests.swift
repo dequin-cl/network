@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import Network
+@testable import IGJNetwork
 import Hippolyte
 import RxSwift
 

@@ -1,3 +1,3 @@
-struct Network {
+struct IGJNetwork {
     var text = "Hello, World!"
 }
